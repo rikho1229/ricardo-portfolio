@@ -53,7 +53,7 @@ function Profile() {
               <img src={instagramIcon} alt="Instagram Icon"/>
             </a>
           </span>
-          <p>
+          <p className={styles.description}>
             Aspiring software developer with a passion for developing projects in python.
           </p>
           <a href={CV} download>
