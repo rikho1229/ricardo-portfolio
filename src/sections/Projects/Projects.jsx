@@ -10,20 +10,20 @@ function Projects() {
     <div className={styles.projectsContainer}>
       <a href="https://github.com/rikho1229/discord-bot" target="_blank">
         <img className="hover" src={discord} alt="discord logo" />
-        <h3>Walter</h3>
-        <p>discord bot</p>
+        <h3>Discord Bot</h3>
+        <p>Python</p>
       </a>
 
       <a href="https://github.com/rikho1229/Employee-Database" target="_blank">
         <img className="hover" src={employee} alt="employee icon" />
         <h3>Employee Database</h3>
-        <p>some description</p>
+        <p>C</p>
       </a>
 
       <a href="https://github.com/rikho1229/ricardo-portfolio" target="_blank">
         <img className="hover" src={personal_portfolio} alt="Personal Porfolio" />
-        <h3>Portfolio</h3>
-        <p>Programming languages used</p>
+        <h3>Personal Portfolio</h3>
+        <p>Javascript, HTML, CSS, React JS</p>
       </a>
 
     </div>
