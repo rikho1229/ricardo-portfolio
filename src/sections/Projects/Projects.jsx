@@ -8,7 +8,7 @@ function Projects() {
   <section id="projects" className={styles.container}>
     <h1 className="sectionTitle">Projects</h1>
     <div className={styles.projectsContainer}>
-      <a href="https://github.com/rikho1229/Course-Allocater" target="_blank">
+      <a href="https://github.com/rikho1229/discord-bot" target="_blank">
         <img className="hover" src={discord} alt="discord logo" />
         <h3>Walter</h3>
         <p>discord bot</p>
