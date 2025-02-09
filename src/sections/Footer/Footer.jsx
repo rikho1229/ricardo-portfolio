@@ -5,7 +5,7 @@ function Footer() {
     <section id="footer" className={styles.container}>
         <p>
             &copy; 2025 Ricardo Lazo.  <br />
-            All Rights Reserverd.
+            All Rights Reserved.
         </p>
     </section>
   );

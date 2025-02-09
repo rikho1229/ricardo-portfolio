@@ -9,7 +9,7 @@ import githubLight from '../../assets/github-light.svg'
 import githubDark from '../../assets/github-dark.svg'
 import instagramLight from '../../assets/instagram-light.svg'
 import instagramDark from '../../assets/instagram-dark.svg'
-import CV from '../../assets/Ricardo_s_2025_resume.pdf'
+import CV from '../../assets/ricardos-2025-tech-resume.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 function Profile() {
